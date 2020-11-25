@@ -1,4 +1,8 @@
 # Printful PHP Client API
+This library available interface allowing developers access to Prinftul dataset.
+
+Note:
+This library works on php  7.4
 
 Installation using Composer:
 
