@@ -1,0 +1,24 @@
+{
+  "name": "sarvan/printful_client_api",
+  "description": "This project describes work with Printful API",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "^7.2",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sarvan\\Printful\\": "src/"
+    }
+  },
+  "license": "1.0",
+  "authors": [
+    {
+      "name": "Sarvan Ibishov",
+      "email": "sarvanibishov@gmail.com"
+    }
+  ]
+}
